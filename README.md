@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I am a App Developer, well...... a beginner : )<br>Passionate about coding , programming and wanderlusting the world of App Development.<br>Eager to learn, communicate, craft and innovate new idea's with students, professionals and mentors! Skilled in FLUTTER. Let's connect and build unique tech projects and solutions.<br><br>Happy Building! 🚀</p>
+<h2 align="center">🚀 App Developer | Flutter Wizard | React Explorer<br>Crafting sleek, functional apps with passion & purpose.<br>Always learning, building, and teaming up to create cool tech.<br>Let’s innovate together! 💡✨<br>Happy Building! 🚀</h2>
 
 ###
 
@@ -59,9 +59,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=om945&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=om945&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=om945&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=om945&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=om945&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=om945&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
