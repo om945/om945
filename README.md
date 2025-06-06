@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="center">🚀 App Developer | Flutter Wizard | React Explorer<br>Crafting sleek, functional apps with passion & purpose.<br>Always learning, building, and teaming up to create cool tech.<br>Let’s innovate together! 💡✨<br>Happy Building! 🚀</h2>
+<h3 align="center">🚀 App Developer | Flutter Wizard | React Explorer<br>Crafting sleek, functional apps with passion & purpose.<br>Always learning, building, and teaming up to create cool tech.<br><br>Let’s innovate together! 💡✨<br>Happy Building! 🚀</h3>
 
 ###
 
