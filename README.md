@@ -14,19 +14,30 @@
 
 ###
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
-  <a href="https://ombelekar.vercel.app/"><img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter" /></a>
-  <a href="https://ombelekar.vercel.app/"><img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart" /></a>
-  <a href="https://ombelekar.vercel.app/"><img src="https://skillicons.dev/icons?i=html" height="40" alt="html5" /></a>
-  <a href="https://ombelekar.vercel.app/"><img src="https://skillicons.dev/icons?i=css" height="40" alt="css" /></a>
-  <a href="https://ombelekar.vercel.app/"><img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript" /></a>
-  <a href="https://ombelekar.vercel.app/"><img src="https://skillicons.dev/icons?i=c" height="40" alt="c" /></a>
-  <a href="https://ombelekar.vercel.app/"><img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus" /></a>
-  <a href="https://ombelekar.vercel.app/"><img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase" /></a>
-  <a href="https://ombelekar.vercel.app/"><img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb" /></a>
-  <a href="https://ombelekar.vercel.app/"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs" /></a>
-  <a href="https://ombelekar.vercel.app/"><img src="https://skillicons.dev/icons?i=express" height="40" alt="express" /></a>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
 </div>
+
 ###
 
 <h2 align="left">🌐 Social:</h2>
